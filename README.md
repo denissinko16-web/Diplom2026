@@ -15,9 +15,5 @@
 * LabXchange
   
 ## Опублікований продукт
-
-[(https://github.com/denissinko16-web/Diplom2026/issues/1#issue-4591797277)](https://github.com/denissinko16-web/Diplom2026/issues/1)
-
-
 Програмний продукт можна використовувати з посилання:
 [wixsite.com](https://dsinko145.wixsite.com/mysite)
