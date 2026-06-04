@@ -16,4 +16,4 @@
   
 ## Опублікований продукт
 Програмний продукт можна використовувати з посилання:
-[intch.io](https://dsinko145.wixsite.com/mysite))
+[wixsite.com](https://dsinko145.wixsite.com/mysite)
