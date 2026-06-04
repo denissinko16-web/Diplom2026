@@ -1,11 +1,15 @@
-# The Public Code Folder
+# Тема вашої дипломної роботи
+Кваліфікаційна робота на підтвердження ступеня фахового молодшого
+бакалавра ([ВСП «ППФК НТУ «ХПІ»](http://polytechnic.poltava.ua)). 
 
-This folder contains the public code files for your site. These files correspond to the ones found in the [**Public**](https://support.wix.com/en/article/velo-working-with-the-velo-sidebar#public) section of the  **Public & Backend** ![image](https://user-images.githubusercontent.com/89579857/184873215-d6042ace-4d20-40f2-ad37-1b1911302f96.png) tab in the Velo sidebar. You can import code from these files into any other file on your site.
-
-Use the following syntax to import code from public files:
-```js
-import { myFunctionName } from 'public/myFileName';
-```   
-Trying to import from the relative path in your site's repo doesn't work.
-
-Learn more about [this repo's file structure](https://support.wix.com/en/article/velo-understanding-your-sites-github-repository-beta).
+Керівникроботи – **Бабич Олександр Вікторович**.
+## Завдання до дипломної роботи
+Продукт має являти собою вебзастосунок, який містить велику кількість інтерактивних лабораторних робіт (симуляцій) з фізики, дозволяє обрати тему чи розділ, вибрати і запустити обрану симуляцію. Використати low-code платформи (Wix, Google Sites тощо), сконцентруватись на побудові привабливого, гарно структурованого, та зручного для школяра інтерфейсу. Скористатись відкритими симуляціями проекту PhET Interactive Simulations, LabXchange тощо.
+## Використані технології
+* WIX
+* HTML
+* PhET Interactive Simulations
+* LabXchange
+## Опублікований продукт
+Інсталяційний пакет створеної гри можна завантажити з магазину
+[intch.io](http://itch.io)
