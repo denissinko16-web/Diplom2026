@@ -16,7 +16,7 @@
   
 ## Опублікований продукт
 
-[![Uploading Снимок экрана 2026-06-04 в 21.49.12.png…]()](https://github.com/denissinko16-web/Diplom2026/issues/1#issue-4591797277)
+(https://github.com/denissinko16-web/Diplom2026/issues/1#issue-4591797277)
 
 
 Програмний продукт можна використовувати з посилання:
